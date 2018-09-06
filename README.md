@@ -1,8 +1,9 @@
 # One-To-Many-Relationship
-creating a read me for Juan's project
+Juan's project README
 
 
 Create a Quidditch Team Model and Quidditch Player Model
+
 The relationships will be as follows
 
 A Quidditch team will have many players
